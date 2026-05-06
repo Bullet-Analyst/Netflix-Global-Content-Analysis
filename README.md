@@ -1,4 +1,7 @@
 # 🎬 Netflix Global Content Analysis (Power BI)
+![Dashboard Overview](./Netflix%20Global%20Dashboard.png)
+![Movies Analysis](./Moview%20Deep%20Dive.png)
+![TV Shows Analysis](./TV%20Shows%20and%20Global.png)
 
 A comprehensive, interactive 3-page Power BI dashboard analyzing Netflix's global library. This project explores content distribution, production trends, and regional footprints with a high-end cinematic UI.
 
